@@ -17,4 +17,3 @@ with open(filename) as file_object:
 # Prompt the user for their phone number.
 # Write the user name, street address, and phone number to a comma-separated line in the file that your user typed in step 1.
 # Once the data has been written to the file your program should read the file and display the contents.
-#testing comments
